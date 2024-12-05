@@ -1,0 +1,397 @@
+neighbourhood,revMonth,count
+Barking and Dagenham,1,419
+Barking and Dagenham,2,377
+Barking and Dagenham,3,479
+Barking and Dagenham,4,586
+Barking and Dagenham,5,686
+Barking and Dagenham,6,739
+Barking and Dagenham,7,892
+Barking and Dagenham,8,811
+Barking and Dagenham,9,468
+Barking and Dagenham,10,563
+Barking and Dagenham,11,463
+Barking and Dagenham,12,474
+Barnet,1,1823
+Barnet,2,1833
+Barnet,3,2180
+Barnet,4,2526
+Barnet,5,3104
+Barnet,6,3762
+Barnet,7,4280
+Barnet,8,3523
+Barnet,9,2475
+Barnet,10,2714
+Barnet,11,2177
+Barnet,12,2257
+Bexley,1,344
+Bexley,2,357
+Bexley,3,461
+Bexley,4,529
+Bexley,5,595
+Bexley,6,718
+Bexley,7,882
+Bexley,8,712
+Bexley,9,466
+Bexley,10,506
+Bexley,11,424
+Bexley,12,432
+Brent,1,2626
+Brent,2,2603
+Brent,3,3384
+Brent,4,4156
+Brent,5,5169
+Brent,6,6767
+Brent,7,6986
+Brent,8,6329
+Brent,9,3872
+Brent,10,4454
+Brent,11,3604
+Brent,12,3645
+Bromley,1,702
+Bromley,2,665
+Bromley,3,775
+Bromley,4,1031
+Bromley,5,1166
+Bromley,6,1297
+Bromley,7,1742
+Bromley,8,1635
+Bromley,9,1055
+Bromley,10,1043
+Bromley,11,780
+Bromley,12,833
+Camden,1,10831
+Camden,2,11196
+Camden,3,13078
+Camden,4,14610
+Camden,5,17018
+Camden,6,18061
+Camden,7,19640
+Camden,8,17912
+Camden,9,13109
+Camden,10,13923
+Camden,11,12438
+Camden,12,12813
+City of London,1,1152
+City of London,2,1107
+City of London,3,1209
+City of London,4,1363
+City of London,5,1503
+City of London,6,1483
+City of London,7,1622
+City of London,8,1628
+City of London,9,1137
+City of London,10,1309
+City of London,11,1063
+City of London,12,1198
+Croydon,1,1411
+Croydon,2,1353
+Croydon,3,1565
+Croydon,4,1842
+Croydon,5,2329
+Croydon,6,2455
+Croydon,7,3230
+Croydon,8,2621
+Croydon,9,1970
+Croydon,10,2144
+Croydon,11,1715
+Croydon,12,1644
+Ealing,1,2334
+Ealing,2,2176
+Ealing,3,2665
+Ealing,4,3427
+Ealing,5,4241
+Ealing,6,5224
+Ealing,7,5785
+Ealing,8,5224
+Ealing,9,3370
+Ealing,10,3738
+Ealing,11,2920
+Ealing,12,2907
+Enfield,1,824
+Enfield,2,756
+Enfield,3,864
+Enfield,4,992
+Enfield,5,1324
+Enfield,6,1461
+Enfield,7,1725
+Enfield,8,1404
+Enfield,9,1101
+Enfield,10,1200
+Enfield,11,869
+Enfield,12,952
+Greenwich,1,1936
+Greenwich,2,1910
+Greenwich,3,2548
+Greenwich,4,3094
+Greenwich,5,3332
+Greenwich,6,3946
+Greenwich,7,4394
+Greenwich,8,3587
+Greenwich,9,2882
+Greenwich,10,3340
+Greenwich,11,2777
+Greenwich,12,2460
+Hackney,1,6700
+Hackney,2,6341
+Hackney,3,7818
+Hackney,4,9406
+Hackney,5,11283
+Hackney,6,12006
+Hackney,7,13448
+Hackney,8,12545
+Hackney,9,8899
+Hackney,10,9563
+Hackney,11,7775
+Hackney,12,8110
+Hammersmith and Fulham,1,4775
+Hammersmith and Fulham,2,4526
+Hammersmith and Fulham,3,5817
+Hammersmith and Fulham,4,7087
+Hammersmith and Fulham,5,8363
+Hammersmith and Fulham,6,9175
+Hammersmith and Fulham,7,10456
+Hammersmith and Fulham,8,8629
+Hammersmith and Fulham,9,6494
+Hammersmith and Fulham,10,7029
+Hammersmith and Fulham,11,5906
+Hammersmith and Fulham,12,6069
+Haringey,1,2647
+Haringey,2,2593
+Haringey,3,3343
+Haringey,4,3743
+Haringey,5,4630
+Haringey,6,4840
+Haringey,7,5933
+Haringey,8,4827
+Haringey,9,3692
+Haringey,10,4219
+Haringey,11,3283
+Haringey,12,3329
+Harrow,1,440
+Harrow,2,424
+Harrow,3,590
+Harrow,4,762
+Harrow,5,860
+Harrow,6,1244
+Harrow,7,1319
+Harrow,8,1064
+Harrow,9,763
+Harrow,10,725
+Harrow,11,560
+Harrow,12,563
+Havering,1,263
+Havering,2,300
+Havering,3,344
+Havering,4,350
+Havering,5,466
+Havering,6,504
+Havering,7,647
+Havering,8,581
+Havering,9,402
+Havering,10,438
+Havering,11,340
+Havering,12,343
+Hillingdon,1,1238
+Hillingdon,2,1071
+Hillingdon,3,1452
+Hillingdon,4,1584
+Hillingdon,5,2041
+Hillingdon,6,2337
+Hillingdon,7,2660
+Hillingdon,8,2307
+Hillingdon,9,1814
+Hillingdon,10,1733
+Hillingdon,11,1386
+Hillingdon,12,1335
+Hounslow,1,1432
+Hounslow,2,1494
+Hounslow,3,1786
+Hounslow,4,1921
+Hounslow,5,2514
+Hounslow,6,2926
+Hounslow,7,3537
+Hounslow,8,3140
+Hounslow,9,2231
+Hounslow,10,2216
+Hounslow,11,1894
+Hounslow,12,1797
+Islington,1,6724
+Islington,2,6665
+Islington,3,8105
+Islington,4,9363
+Islington,5,11085
+Islington,6,11494
+Islington,7,13221
+Islington,8,11707
+Islington,9,8816
+Islington,10,9468
+Islington,11,8211
+Islington,12,8114
+Kensington and Chelsea,1,7749
+Kensington and Chelsea,2,7401
+Kensington and Chelsea,3,9355
+Kensington and Chelsea,4,11144
+Kensington and Chelsea,5,12476
+Kensington and Chelsea,6,13689
+Kensington and Chelsea,7,15482
+Kensington and Chelsea,8,13097
+Kensington and Chelsea,9,9877
+Kensington and Chelsea,10,10450
+Kensington and Chelsea,11,8759
+Kensington and Chelsea,12,9361
+Kingston upon Thames,1,677
+Kingston upon Thames,2,734
+Kingston upon Thames,3,896
+Kingston upon Thames,4,996
+Kingston upon Thames,5,1289
+Kingston upon Thames,6,1563
+Kingston upon Thames,7,2014
+Kingston upon Thames,8,1467
+Kingston upon Thames,9,1116
+Kingston upon Thames,10,1095
+Kingston upon Thames,11,814
+Kingston upon Thames,12,853
+Lambeth,1,6900
+Lambeth,2,6735
+Lambeth,3,8311
+Lambeth,4,9917
+Lambeth,5,11963
+Lambeth,6,12570
+Lambeth,7,14092
+Lambeth,8,12380
+Lambeth,9,9644
+Lambeth,10,10164
+Lambeth,11,8625
+Lambeth,12,8465
+Lewisham,1,2238
+Lewisham,2,2101
+Lewisham,3,2639
+Lewisham,4,3468
+Lewisham,5,3956
+Lewisham,6,4217
+Lewisham,7,5407
+Lewisham,8,4643
+Lewisham,9,3401
+Lewisham,10,3461
+Lewisham,11,2730
+Lewisham,12,2751
+Merton,1,1073
+Merton,2,1009
+Merton,3,1273
+Merton,4,1540
+Merton,5,1897
+Merton,6,2347
+Merton,7,4243
+Merton,8,2154
+Merton,9,1619
+Merton,10,1722
+Merton,11,1307
+Merton,12,1304
+Newham,1,2357
+Newham,2,2300
+Newham,3,2958
+Newham,4,3430
+Newham,5,3996
+Newham,6,4637
+Newham,7,4795
+Newham,8,3895
+Newham,9,3106
+Newham,10,3592
+Newham,11,3040
+Newham,12,2653
+Redbridge,1,717
+Redbridge,2,643
+Redbridge,3,863
+Redbridge,4,936
+Redbridge,5,1161
+Redbridge,6,1336
+Redbridge,7,1604
+Redbridge,8,1351
+Redbridge,9,880
+Redbridge,10,1031
+Redbridge,11,832
+Redbridge,12,838
+Richmond upon Thames,1,1593
+Richmond upon Thames,2,1799
+Richmond upon Thames,3,2343
+Richmond upon Thames,4,2503
+Richmond upon Thames,5,3445
+Richmond upon Thames,6,3658
+Richmond upon Thames,7,4535
+Richmond upon Thames,8,3725
+Richmond upon Thames,9,2876
+Richmond upon Thames,10,2821
+Richmond upon Thames,11,2445
+Richmond upon Thames,12,2100
+Southwark,1,6990
+Southwark,2,7075
+Southwark,3,8568
+Southwark,4,10005
+Southwark,5,11987
+Southwark,6,12436
+Southwark,7,14185
+Southwark,8,12627
+Southwark,9,9664
+Southwark,10,10349
+Southwark,11,8859
+Southwark,12,8854
+Sutton,1,437
+Sutton,2,400
+Sutton,3,519
+Sutton,4,581
+Sutton,5,723
+Sutton,6,766
+Sutton,7,1013
+Sutton,8,757
+Sutton,9,545
+Sutton,10,580
+Sutton,11,445
+Sutton,12,461
+Tower Hamlets,1,8825
+Tower Hamlets,2,8691
+Tower Hamlets,3,10555
+Tower Hamlets,4,11912
+Tower Hamlets,5,14006
+Tower Hamlets,6,15158
+Tower Hamlets,7,16706
+Tower Hamlets,8,15165
+Tower Hamlets,9,10959
+Tower Hamlets,10,11922
+Tower Hamlets,11,9932
+Tower Hamlets,12,10106
+Waltham Forest,1,1466
+Waltham Forest,2,1407
+Waltham Forest,3,1778
+Waltham Forest,4,2199
+Waltham Forest,5,2604
+Waltham Forest,6,2877
+Waltham Forest,7,3300
+Waltham Forest,8,2927
+Waltham Forest,9,2027
+Waltham Forest,10,2330
+Waltham Forest,11,1830
+Waltham Forest,12,1797
+Wandsworth,1,4412
+Wandsworth,2,4323
+Wandsworth,3,5584
+Wandsworth,4,6783
+Wandsworth,5,8381
+Wandsworth,6,8757
+Wandsworth,7,11784
+Wandsworth,8,8971
+Wandsworth,9,6591
+Wandsworth,10,7008
+Wandsworth,11,5613
+Wandsworth,12,5824
+Westminster,1,15652
+Westminster,2,15812
+Westminster,3,19075
+Westminster,4,21439
+Westminster,5,24795
+Westminster,6,26797
+Westminster,7,29604
+Westminster,8,25337
+Westminster,9,18707
+Westminster,10,19604
+Westminster,11,17344
+Westminster,12,17466
